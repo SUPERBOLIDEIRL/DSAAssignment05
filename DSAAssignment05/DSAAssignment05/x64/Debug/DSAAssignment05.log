@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(12,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(12,12): message : consider using '%lld' in the format string
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(12,12): message : consider using '%Id' in the format string
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(12,12): message : consider using '%I64d' in the format string
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(34,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(34,12): message : consider using '%lld' in the format string
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(34,12): message : consider using '%Id' in the format string
+C:\Users\awajd\source\repos\DSAAssignment05\DSAAssignment05\main.c(34,12): message : consider using '%I64d' in the format string
+  DSAAssignment05.vcxproj -> C:\Users\awajd\source\repos\DSAAssignment05\x64\Debug\DSAAssignment05.exe
